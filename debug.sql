@@ -1,0 +1,1 @@
+SELECT * FROM employees where manager_id =1;
